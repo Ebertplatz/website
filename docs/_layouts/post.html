@@ -17,7 +17,7 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     <div>{{ page.text }}</div>
-    {%- for imgURL in page.img -%}
+    {%- for imgURL in page.imgOrig -%}
       <img class="post-content__img" src="{{ imgURL }}">
     {%- endfor -%}
   </div>

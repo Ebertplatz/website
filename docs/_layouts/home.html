@@ -23,7 +23,7 @@ layout: default
         <div>{{ post.text | escape }}</div>
       </div>
       <div class="grid">
-        {%- for imgURL in post.img -%}
+        {%- for imgURL in post.imgMin -%}
         <div class="grid-item">
           <img src="{{ imgURL }}">
         </div>

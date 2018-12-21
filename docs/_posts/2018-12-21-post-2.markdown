@@ -3,10 +3,11 @@ layout: post
 date:   2018-12-21 11:16:02 +0100
 title:  "Betreffzeile in der Mail wird zur Überschrift des Posts"
 text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et"
-img: 
+
+imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/002.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/032.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/003.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/004.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/005.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/006.jpg"
@@ -14,5 +15,17 @@ img:
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/009.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/010.jpg"
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/010.jpg"
 
 ---
