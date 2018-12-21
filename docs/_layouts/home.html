@@ -8,9 +8,8 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
+  <img src="/assets/homescreen.jpg">
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -23,7 +22,7 @@ layout: default
           </a>
           <div>{{ post.text | escape }}</div>
           {%- for imgURL in post.img -%}
-            <img src="{{ imgURL }}">
+            <img src="{{ imgURL }}">
           {%- endfor -%}          
         </h3>
         {%- if site.show_excerpts -%}
