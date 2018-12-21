@@ -11,5 +11,5 @@ git add -A
 git commit -m "Your message"  
 git push -u origin master  
 
-
-
+To pull files from github use:
+git pull
