@@ -30,6 +30,7 @@ body {
 .grid {
 	margin-top: $distance-1;
 }
+
 .grid-item { 
 	width: 286px;
 	margin-bottom: $distance-1;
@@ -40,5 +41,10 @@ body {
 }
 
 .post__teaser {
+	width: 100%;
+}
+
+.post-content__img {
+	margin-top: 2 * $distance-1;
 	width: 100%;
 }
