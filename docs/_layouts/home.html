@@ -18,8 +18,13 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%-d-%m-%Y, %H:%M Uhr" }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
+            <!-- Liquid escape: replacing characters with HTML escape sequences  -->
             {{ post.title | escape }}
           </a>
+          <div>{{ post.text | escape }}</div>
+          {%- for imgURL in post.img -%}
+            <img src="{{ imgURL }}">
+          {%- endfor -%}          
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
