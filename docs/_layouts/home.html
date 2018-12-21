@@ -4,33 +4,37 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
   <img src="/assets/homescreen.jpg">
   {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li class="post">
+      <div class="post__teaser">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: "%-d-%m-%Y, %H:%M Uhr" }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            <!-- Liquid escape: replacing characters with HTML escape sequences  -->
-            {{ post.title | escape }}
-          </a>
-          <div>{{ post.text | escape }}</div>
-          {%- for imgURL in post.img -%}
-            <img src="{{ imgURL }}">
-          {%- endfor -%}          
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <!-- Liquid escape: replacing characters with HTML escape sequences  -->
+          {{ post.title | escape }}
+        </a>
+        <div>{{ post.text | escape }}</div>
+      </div>
+      <div class="grid">
+        {%- for imgURL in post.img -%}
+        <div class="grid-item">
+          <img src="{{ imgURL }}">
+        </div>
+        {%- endfor -%}        
+      </div>  
+      {%- if site.show_excerpts -%}
+      {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
   {%- endif -%}
 
 </div>

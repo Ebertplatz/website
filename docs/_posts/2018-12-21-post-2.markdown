@@ -6,7 +6,7 @@ text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy 
 img: 
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/002.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/032.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/004.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/005.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/006.jpg"
