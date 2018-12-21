@@ -1,0 +1,9 @@
+---
+layout: post
+email:  "loco.ksssaruso@loco.de"
+date:   2018-12-17 16:29:02 +0100
+img:
+  - apple
+  - banana
+  - orange
+---

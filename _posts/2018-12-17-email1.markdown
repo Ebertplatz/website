@@ -1,0 +1,9 @@
+---
+layout: post
+email:  "loco.karuso@loco.de"
+date:   2018-12-17 16:28:02 +0100
+img:
+  - apple
+  - banana
+  - orange
+---
