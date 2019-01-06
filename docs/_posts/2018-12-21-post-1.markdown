@@ -28,6 +28,22 @@ imgOrig:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/007.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/008.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/009.JPG"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/010.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/011.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/012.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/013.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/014.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/015.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/016.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/017.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/018.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/019.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/020.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/021.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/022.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/023.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/024.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/025.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/026.JPG"
+  
 
 ---
