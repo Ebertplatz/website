@@ -19,7 +19,7 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/miniaturen/010.jpg"
 
 imgOrig: 
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/001.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/002.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/003.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/originale/004.JPG"
