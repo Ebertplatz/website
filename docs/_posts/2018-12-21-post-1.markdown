@@ -1,9 +1,9 @@
 ---
 layout: post
-author: "lud led"
-date:   2018-12-21 11:16:02 +0100
-title:  "Betreffzeile in der Mail wird zur Überschrift des Posts"
-text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et"
+author: "Franzsika"
+date:   2018-12-16 11:16:02 +0100
+title:  "Wasser marsch!"
+text: "Die Fotoaufnahmen sind bei einem Rundgang über den Ebertplatz 2017 entstanden."
 
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/001.jpg"
