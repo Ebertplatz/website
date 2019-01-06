@@ -17,7 +17,7 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/miniaturen/010.jpg"
 
 imgOrig: 
-  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/images/16-12-2018-post-1/originale/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/002.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/032.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/004.jpg"
@@ -27,5 +27,5 @@ imgOrig:
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/009.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/16-12-2018-post-1/originale/010.jpg"
-
+images/16-12-2018-post-1/orginale/001.jpg
 ---
