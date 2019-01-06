@@ -7,7 +7,7 @@ text: "Diese Aufnahmen sind bei einer Begehung des Platzes im Jahre 2018 entstan
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/001.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/002.JPG"
-  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/032.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/003.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/004.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/005.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/historical/master/21-12-2018-post-3/miniaturen/006.JPG"
