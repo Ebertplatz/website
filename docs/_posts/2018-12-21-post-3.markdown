@@ -2,8 +2,8 @@
 layout: post
 author: "Ludwig"
 date:   2018-12-21 11:16:02 +0100
-title:  "Herbst"
-text: "Diese Aufnahmen sind bei einer Begehung des Platzes im Jahre 2018 entstanden."
+title:  "Ecken und Kanten"
+text: "..."
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-3/miniaturen/001.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-3/miniaturen/002.JPG"

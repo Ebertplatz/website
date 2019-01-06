@@ -3,7 +3,7 @@ layout: post
 author: "Niklas"
 date:   2018-12-21 11:16:02 +0100
 title:  "Historische Postkarten"
-text: "Im Zuge meiner Bachelorarbeit habe ich diese historischen Postkarten gefunden. Sie zeigen den Platz zwischen 1900-1960."
+text: "..."
 
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/18-12-2018-post-2/miniaturen/001.jpg"
