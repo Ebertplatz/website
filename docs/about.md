@@ -21,4 +21,4 @@ Bruno Latour, Albena Yaneva, An ANT's View of Architecture, 2008
 [http://vhpark.hyperbody.nl/images/2/2a/Latour-Give_me_a_gun.pdf](http://vhpark.hyperbody.nl/images/2/2a/Latour-Give_me_a_gun.pdf) (english)  
 
 David Hockney, Pearblossom Highway, 1986   
-[link text itself]: http://www.davidhockney.co/works/photos/photographic-collages  
+[http://www.davidhockney.co/works/photos/photographic-collages](http://www.davidhockney.co/works/photos/photographic-collages)  
