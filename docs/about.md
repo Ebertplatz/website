@@ -11,7 +11,7 @@ This project was initiated to generate a new perspective on the public space Ebe
 For the source-code and all files to download:
 
 Github  
-(https://github.com/Ebertplatz)
+[https://github.com/Ebertplatz](https://github.com/Ebertplatz)
 
 
 For further information about the background of the project visit folowing links:
