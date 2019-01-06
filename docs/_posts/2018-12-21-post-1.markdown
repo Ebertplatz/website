@@ -3,7 +3,8 @@ layout: post
 author: "Franzsika"
 date:   2018-12-16 11:16:02 +0100
 title:  "Wasser marsch!"
-text: "Die Fotoaufnahmen sind bei einem Rundgang über den Ebertplatz 2017 entstanden."
+text: "Im Rahmen eines Projekts den Ebertplatz betreffend, sind diese Fotos entstanden, um eine gewisse Recherchegrundlage über das Verhalten der Passanten bei Überquerung des Platzes zu erhalten. Zum Zeitpunkt der Aufnahmen wurde der Platz fast ausschließlich zum durchkreuzen benutzt und weniger um zu verweilen. Die Mitte des Ebertplatzes wurde von der Brunnenbaustelle beherrscht und das Flair, das seit der Reparatur des Brunnes Einzug gehalten hat, hatte sich noch nicht eingestellt. 
+Die Bilder sollen die Kargheit des alten Ebertplatzes zeigen und die Geschäftigkeit der sich darauf befindenden Passanten ausdrücken."
 
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-1/miniaturen/001.jpg"
