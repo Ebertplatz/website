@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Re: Ebertplatz"
 email: ebertplatz@koeln.de
-description: >- # this means to ignore newlines until "baseurl:"
+description: # >- # this means to ignore newlines until "baseurl:"
   Re:Ebertplatz is an open-source archive for the public space "Ebertplatz".<br/>  
   You can upload content by sending a mail.<br/> This project was initiated  
   to generate a new perspective on the public space and its transformations.
