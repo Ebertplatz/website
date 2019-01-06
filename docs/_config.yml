@@ -16,9 +16,9 @@
 title: "Re: Ebertplatz"
 email: ebertplatz@koeln.de
 description: # >- # this means to ignore newlines until "baseurl:"
-  Re:Ebertplatz is an open-source archive for the public space "Ebertplatz".    
-  You can upload content by sending a mail.  This project was initiated  
-  to generate a new perspective on the public space and its transformations.
+  Re:Ebertplatz is an open-source archive for the public space "Ebertplatz, Cologne".    
+  You can upload content by sending a mail. This project was initiated to generate a 
+  new perspective on the public space and it's transformations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ebertplatz
