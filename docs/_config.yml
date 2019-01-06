@@ -16,10 +16,9 @@
 title: "Re: Ebertplatz"
 email: ebertplatz@koeln.de
 description: >- # this means to ignore newlines until "baseurl:"
-  "Re:Ebertplatz" ist eine Auseinandersetzung mit dem Thema der "Unsichtbaren Stadt". Es wird angestrebt   
-  eine breitere Perspektive auf den Kölner Ebertplatz zu generieren. Hierzu finden sich auf dieser Seite  
-  diverse Bilder und Texte. Es handelt sich um ein offenes Archiv, wenn Sie über weitere Inhalte verfügen  
-  freuen wir uns auf eine Mail von Ihnen. Nach einer Prüfung werden die Bilder hier veröffentlicht.
+  Re:Ebertplatz is an open-source archive for the public space "Ebertplatz".  
+  You can upload content by sending a mail. This project was initiated  
+  to generate a new perspective on the public space and its transformations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ebertplatz
