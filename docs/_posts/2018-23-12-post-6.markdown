@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Kevin Paterka, Lars Köppl und Konstantin Hehl"
-date:   2019-13-01 18:16:02 +0100
+date:   2018-23-12 18:16:02 +0100
 title:  "Invisible Noise"
 text: "Wo befinde ich mich gerade, und was geschieht in diesem Augenblick? Unsere Sinneseindrücke helfen uns, diese Fragen zu beantworten und die Orientierung zu behalten. Tag und Nacht empfangen wir fortlaufend eine Vielzahl von Reizen und Stimulationen, die wir dank speziellen Nervenzellen – unseren Sinneszellen – wahrnehmen.
 
