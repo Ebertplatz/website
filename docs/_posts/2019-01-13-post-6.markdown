@@ -1,0 +1,55 @@
+---
+layout: post
+author: "Kevin Paterka, Lars Köppl und Konstantin Hehl"
+date:   2019-13-01 18:16:02 +0100
+title:  "Invisible Noise"
+text: "Wo befinde ich mich gerade, und was geschieht in diesem Augenblick? Unsere Sinneseindrücke helfen uns, diese Fragen zu beantworten und die Orientierung zu behalten. Tag und Nacht empfangen wir fortlaufend eine Vielzahl von Reizen und Stimulationen, die wir dank speziellen Nervenzellen – unseren Sinneszellen – wahrnehmen.
+
+Diese vermeintlich freie Entdeckung unserer Umwelt wird von unserem Unterbewusstsein gesteuert um von der Vielzahl der Eindrücke nicht erdrückt zu werden. Invisible Noise spielt mit unserer Aufmerksamkeit zwischen Hörsinn und Sehsinn.Die Unterstützung unserer Augen um ein Geräusch klar zu definieren entfällt. 
+
+Das Unhörbare wird hörbar.
+
+Machen wir uns der Vielfalt unserer Sinneseindrücke bewusst, beginnt die Stadt unsichtbare Geschichten zu erzählen.Alltagsgeräusche werden zur Rhythmen und die Großstadt schlussendlich zum Orchester. "
+imgMin: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/001.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/002.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/006.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/006.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/005.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/006.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/007.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/008.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/009.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-6/miniaturen/010.JPG"
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/002.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/003.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/004.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/005.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/006.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/007.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/008.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/009.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/011.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/012.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/013.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/014.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/015.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/016.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/017.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/018.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/019.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/020.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/021.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/022.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/023.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/024.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/025.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/026.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/027.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/028.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/029.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/16-12-2018-post-6/originale/030.JPG"
+---
