@@ -21,8 +21,7 @@ Bruno Latour, Albena Yaneva, An ANT's View of Architecture, 2008
 [http://vhpark.hyperbody.nl/images/2/2a/Latour-Give_me_a_gun.pdf](http://vhpark.hyperbody.nl/images/2/2a/Latour-Give_me_a_gun.pdf) (english)  
 
  Charles & Ray Eames, A Computer Perspective, 1971
- [http://www.eamesoffice.com/the-work/a-computer-perspective]
-(http://www.eamesoffice.com/the-work/a-computer-perspective) 
+ [http://www.eamesoffice.com/the-work/a-computer-perspective](http://www.eamesoffice.com/the-work/a-computer-perspective) 
 
 David Hockney, Pearblossom Highway, 1986   
 [http://www.davidhockney.co/works/photos/photographic-collages](http://www.davidhockney.co/works/photos/photographic-collages)  
