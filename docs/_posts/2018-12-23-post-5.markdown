@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Kevin Paterka, Lars Köppl und Konstantin Hehl"
-date:   2018-12-23 23:12:02 +0100
+date:   2019-01-13 23:12:02 +0100
 title:  "No Go Area"
 text: "Um die Bewegungen am Ebertplatz besser zu verstehen, führten wir eine quantitative Analyse der verschiedenen Fußgängerrouten durch. 
 Auffällig hierbei wurde vor allem, dass die unterirdischen Passagen kaum bis gar nicht genutzt werden. Der sogenannte Angstraum wird gemieden, obwohl er kulturell eine wichtige Instanz für die Stadt Köln darstellt. Wir suchten nach Gründen. 
