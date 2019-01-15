@@ -1,9 +1,9 @@
 ---
 layout: post
-author: "Ludwig"
+author: "Ludwig Lederer"
 date:   2018-12-21 11:16:02 +0100
-title:  "Ecken und Kanten"
-text: "..."
+title:  "Materialität und Dimension"
+text: "Die Stadt besteht aus Teilen. Ihren Häusern, ihren Plätzen, ihren Grünanlagen und ihren Freiflächen. Aus Park- und Spielplätzen, aus Cafés, Geschäften und Restaurants. Den Kiosken, U-Bahnstationen, Straßen, Ampeln und den Menschen die sich mithilfe von Verkehrsmitteln innerhalb dieses Netzwerks bewegen. Bei ihnen, fällt es leicht die Veränderungen zu sehen die sich durch das Leben ergeben haben. Wir können ihnen, ihr Alter ansehen. Bei den Gebäuden, wird es schwieriger zu erkennen, wie lange ein Gebäude schon in einer spezifischen Form besteht. Es steht in ständiger Transforma- tion im Laufe der Zeit. Es wird renoviert, abgerissen oder zerstört um neuen Platz zu schaffen oder weil es nicht mehr benötigt wird. Einige der Gebäude einer Stadt, lassen sich sicherlich, von Experten in zeitgeschichtlicher Ordnung identifizieren aber den- noch scheint es unmöglich die Entscheidungen darzustellen, warum ein Gebäude einer Stadt eine spezifische Materialität aufweist und in welchem Zusammenhang dies mit der Form bzw. der Funktion eines Gebäudes steht."
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-3/miniaturen/001.JPG"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/21-12-2018-post-3/miniaturen/002.JPG"
