@@ -1,9 +1,15 @@
 ---
 layout: post
-author: "Niklas"
+author: "Niklas Irmen"
 date:   2018-12-21 11:16:02 +0100
 title:  "Historische Postkarten"
-text: "..."
+text: "Am 1. Juni 1886 wird die Ringstraße vom Ubierring bis zum Sicherheitshafen feierlich eröffnet. Der Ebertplatz oder Deutscher Platz wie er bis 1923 hieß wurde erst um 1890 angelegt. In diesem Zusammenhang wurde aus dem anschließenden Sicherheitshafen auch der Deutsche Ring, heute Theodor Heuss Ring. Dieser landschaftlich gestaltete Parkabschnitt der Ringstraße diente als Ersatz für den durch die Ausweisung von Baugrundstücken weggefallenen Eigelsteinglacis, eine durch Maximilian Friedrich Weyhe 1837/38 gestaltete Parkanlage, die sich in unmittelbarer Nähe befand.
+Der heutige Ebertplatz blickt auf eine wechselvolle Geschichte zurück. Als Deutscher Platz um 1890 eingeweiht, war er mit einem großen Wasserbecken in Form eines griechischen Kreuzes und mehrere Fontänen geschmückt. Aufwändige Wechselbepflanzung, Bänke und Spazierwege luden zum Verweilen ein. Gefasst war der Platz von einer Reihe Linden und einem gusseisernen Zäunchen.
+
+Mit dem Ende der Monarchie in Deutschland wurde auch der Unterhalt der aufwendigen Grünanlagen zurückgefahren. Ausdruck dieser neuen Zeit ist auch die Umbenennung des Deutschen Platzes zum Platz der Republik 1923. Der Platz erfuhr keine nennenswerten Veränderungen in den 1920er Jahren. Schon kurz nach der Machtergreifung der Nationalsozialisten wurde der Platz der Republik zum Adolf-Hitler-Platz. Eine Planung aus dem Archiv des LVR-Amtes für Denkmalpflege im Rheinland zeigt, dass die ursprüngliche Form beibehalten wurde. Nur die gärtnerischen Schmuckanlagen wurden weiter reduziert und dem Zeitgeschmack angepasst. Zwischen 1945 und 1950 hieß der Platz wieder Deutscher Platz, bevor er schließlich zum Ebertplatz wird.
+Erst im Zuge des U-Bahnbaus erfuhr der Ebertplatz seine erste tiefgreifende Umgestaltung. War der Platz mit Wasserbecken und baulichen wie gärtnerischen Zutaten relativ unbeschädigt durch den Krieg gekommen, wurde er ab 1968 bis 1977 zur größten Baustelle in Köln. Die eigentliche Platzfläche wurde abgesenkt, die Passage angelegt und der Platz durch klare geometrische Formen in Verbindung mit gleichzeitiger Asymmetrie gestaltet. Die unterschiedlichen Höhenniveaus der Platzfläche besitzen einen fast landschaftlichen Charakter. Zusammen mit dem Ringturmhochhaus von 1973 wurde ein moderner städtebaulicher Akzent gesetzt. Der Ebertplatz figurierte als Verkehrsknotenpunkt zum zeitgemäßen Aushängeschild der modernen Stadt Köln. 
+
+"
 
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/18-12-2018-post-2/miniaturen/001.jpg"
