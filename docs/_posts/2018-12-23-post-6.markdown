@@ -11,7 +11,7 @@ Machen wir uns der Vielfalt unserer Sinneseindrücke bewusst, beginnt die Stadt 
 
 imgMin: 
 
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-6/miniaturen/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/23-12-2018-post-6/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/23-12-2018-post-6/miniaturen/002.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/23-12-2018-post-6/miniaturen/006.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/23-12-2018-post-6/miniaturen/006.jpg"
