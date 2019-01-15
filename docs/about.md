@@ -22,7 +22,7 @@ Bruno Latour, Albena Yaneva, An ANT's View of Architecture, 2008
 
  Charles & Ray Eames, A Computer Perspective, 1971
  [http://www.eamesoffice.com/the-work/a-computer-perspective]
- (http://www.eamesoffice.com/the-work/a-computer-perspective) 
+(http://www.eamesoffice.com/the-work/a-computer-perspective) 
 
 David Hockney, Pearblossom Highway, 1986   
 [http://www.davidhockney.co/works/photos/photographic-collages](http://www.davidhockney.co/works/photos/photographic-collages)  
