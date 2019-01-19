@@ -1,0 +1,20 @@
+---
+layout: post
+author: "Franz-Josef Heumannskämper"
+date:   2019-01-15 18:16:02 +0100
+title:  "Hund mit Domohren"
+text: ""
+
+imgMin: 
+
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/15-01-2019-post-7/miniaturen/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/15-01-2019-post-7/miniaturen/003.jpg"
+
+
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/15-01-2019-post-7/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/15-01-2019-post-7/originale/002.jpg"
+
+
+---

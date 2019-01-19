@@ -3,7 +3,7 @@ layout: post
 author: "Tamara Bertran"
 date:   2019-01-09 18:16:02 +0100
 title:  "Projekt Ebertplatz"
-text: "..."
+text: ""
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/002.jpg"
