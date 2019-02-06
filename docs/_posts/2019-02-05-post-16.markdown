@@ -13,6 +13,7 @@ After all, we created an Instagram account where we showed lots of our photos an
 
 imgMin: 
 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/023.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/002.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/003.jpg"
@@ -22,7 +23,6 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/007.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/009.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/010.jpg"
 
 
 
