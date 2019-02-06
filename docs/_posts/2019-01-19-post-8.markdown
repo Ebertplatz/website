@@ -2,8 +2,8 @@
 layout: post
 author: "Lisa"
 date:   2019-01-19 18:16:02 +0100
-title:  "Tag des guten Lebens"
-text: ""
+title:  "Historische Unterlagen"
+text: "Vielen Dank an Gerd Mies und dem Labor für diese Orginalskizzen der Wasserkinetischen Plastik von Wolfgang Göddertz und der Verlagsbeilage von 1977."
 
 imgMin: 
 
