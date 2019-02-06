@@ -7,16 +7,16 @@ text: "Vielen Dank an Gerd Mies und dem Labor für diese Orginalskizzen der Wass
 
 imgMin: 
 
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-8/miniaturen/001.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-8/miniaturen/002.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-8/miniaturen/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-9/miniaturen/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-9/miniaturen/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-9/miniaturen/003.jpg"
 
 
 
 imgOrig: 
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-8/originale/001.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-8/originale/002.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-8/originale/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-9/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-9/originale/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/19-01-2019-post-9/originale/003.jpg"
 
 
 ---
