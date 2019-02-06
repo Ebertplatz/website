@@ -27,10 +27,7 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/009.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/010.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/011.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/012.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/013.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/014.jpg"
+ 
 
 imgOrig: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/001.jpg"
