@@ -2,8 +2,8 @@
 layout: post
 author: "Charlotte"
 date:   2019-02-05 12:00:00 +0100
-title:  "Den Ebertplatz „erfassen“ (“Capturing” the Ebertplatz)"
-text: "Setzt man sich mit dem Ebertplatz auseinander wird schnell deutlich, dass sein „Bad Image“ insbesondere mit der Architektur und dem Antlitz des Platzes in Verbindung gebracht wird: der Brutalismus der 70ger Jahre mit seinen vielen Verwinkelungen und dunklen Ecken. Doch wie wird der Platz wahrgenommen, wenn man diese vermeintlichen Störfaktoren ausklammert, sprich den Platz ohne den visuellen Sehsinn wahrnimmt?
+title:  "Den Ebertplatz erfassen (Capturing the Ebertplatz)"
+text: "Setzt man sich mit dem Ebertplatz auseinander wird schnell deutlich, dass sein Bad Image insbesondere mit der Architektur und dem Antlitz des Platzes in Verbindung gebracht wird: der Brutalismus der 70ger Jahre mit seinen vielen Verwinkelungen und dunklen Ecken. Doch wie wird der Platz wahrgenommen, wenn man diese vermeintlichen Störfaktoren ausklammert, sprich den Platz ohne den visuellen Sehsinn wahrnimmt?
 
 Die Tastarbeiten sind eine Darstellungsform des Ebertplatzes aus einer Blinden-Perspektive:
 Blinde erfassen ihre Umgebung hauptsächlich mit ihrem Gehör und dem Tastsinn. Wichtigstes Werkzeug für die Erfassung ist der sogenannte Langstock und die unterschiedlichen Nutzungstechniken des Stockes (Schleiftechnik, Tipptechnik, etc.). Störfaktoren für Sehende, wie Mobiliar, Eingänge oder der Autolärm rund um den Platz sind für Nicht-Sehende potentielle Orientierungspunkte, die den Platz strukturieren. Diese Strukturen sind in Form von Tastkarten festgehalten worden, indem u.a. die Pendelbewegung des Blindenstockes aufgegriffen wurde.
@@ -11,7 +11,7 @@ Orientierung stiftet auch die Geräuschresonanz des Blindenstockes, so kann beis
 (The "Bad Image" of the Ebertplatz is particularly associated with the architecture of the square: the brutalism of the 70s with its many nooks and dark corners. But how is the square perceived, if one ignores these supposed disturbing factors i.e. how is the Ebertplatz perceived without a visual sense?
 
 The tactile works are a representation of Ebertplatz from a blind perspective:
-Blind people perceive their surroundings mainly with their hearing and sense of touch. The most important tool for the recording is the so-called „white cane“. The different techniques of using the stick („Schleiftechnik“, „Tipptechnik“, etc.) are essential.
+Blind people perceive their surroundings mainly with their hearing and sense of touch. The most important tool for the recording is the so-called white cane. The different techniques of using the stick (Schleiftechnik, Tipptechnik, etc.) are essential.
 Factors, which can be disturbing for sighted people, such as furniture, entrances or noise are potential orientation points for non-sighted people that structure the square. These structures have been captured in the form of tactile maps by taking up the pendulum movement of the blind cane. 
 
 Orientation is also provided by the sound resonance of the cane and gives an idea of the covered areas including the ceiling height or of the furniture on the square.
