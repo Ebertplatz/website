@@ -2,7 +2,7 @@
 layout: post
 author: "Amelia, Jennifer"
 date:   2019-02-05 12:00:00 +0100
-title:  "Umzug"
+title:  "Euer Ebertplatz"
 text: "The project “Euer Ebertplatz” takes a look at the social background of actors using the Ebertplatz. Jennifer and Amelia accompanied seven people during the last months: people who were addicted to drugs, had just arrived in Germany or who had been attracting police attention. Above all, these people know the Ebertplatz better than hardly anyone else. The intention is to give these people a voice – one that has rarely been found in public discourse about this special location. We gave them disposable cameras and asked them to capture their perspective on Ebertplatz for us. Their photos can be found in the magazine articles along with the four interviews we held with them."
 
 imgMin: 
