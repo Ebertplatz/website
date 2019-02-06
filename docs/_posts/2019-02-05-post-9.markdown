@@ -1,9 +1,9 @@
 ---
 layout: post
-author: "Gerd Mies"
+author: "Lisa"
 date:   2019-01-19 18:16:02 +0100
-title:  "Skizzen vom Brunnen"
-text: "Vielen Dank an Gerd Mies und dem Labor für diese Orginalskizzen der Wasserkinetischen Plastik von Wolfgang Göddertz. "
+title:  "Tag des guten Lebens"
+text: " "
 
 imgMin: 
 
