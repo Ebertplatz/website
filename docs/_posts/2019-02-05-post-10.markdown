@@ -1,0 +1,42 @@
+---
+layout: post
+author: "Elena Lohmann, Leandra Marie Henke"
+date:   2019-02-05 12:00:00 +0100
+title:  "Breakthrough Light (boxes)"
+text: "After spending some time at the Ebertplatz and discovering it from different angles, our focus was on the dull atmosphere and the external dereliction of the place. To counteract this, revive the place and make it more attractive again, we wanted to turn it into an open art space by using the architectural design of the square. As an experiment, we decided to independently exhibit sculptures of two Cologne artists in the passage and capture the reactions of the passers-by on film.
+
+ We noticed, the lack of light is one of the essential deficits the Ebertplatz has to deal with. The darkness in combination with the pillars and many entries and exits creates a feeling of disorientation and invisibility. The only natural source of light in the passage comes from the hexagon. It mediates between the over- and underground and opens the view to different perspectives above.
+
+With regard to the exhibition, we wanted to use this natural source of light and offer the viewer a metaphorical view of the splintering place. We decided to build light boxes to show both perspectives of the place, the level above our heads as well as the level down in the passage. Our Intention was to transfer the light to the underpass at eye height. The photo-collages attend to reflect the disruption and disunity of the place itself and depicts the diversity of perception of the location as “our Ebertplatz”."
+
+imgMin: 
+
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/miniaturen/009.jpg"
+
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-10/originale/009.jpg"
+
+Inspiration:
+[http://www.oechsner-galerie.de/oliver_boberg/](http://www.oechsner-galerie.de/oliver_boberg/)
+[http://boiteaoutils.blogspot.com/2010/02/unwalling-architecture-with-gordon.html](http://boiteaoutils.blogspot.com/2010/02/unwalling-architecture-with-gordon.html)
+[http://olafureliasson.net/archive/artwork/WEK101085/remagine-large-version](http://olafureliasson.net/archive/artwork/WEK101085/remagine-large-version)
+
+
+---

@@ -1,0 +1,54 @@
+---
+layout: post
+author: "Johanna, Jonas, David"
+date:   2019-02-05 12:00:00 +0100
+title:  "Sichtweiser"
+text: "Our main objective was to get more people to the Ebertplatz. We came across the phenomenon of Instagram leading the way of people to specified destinations. Therefore we had to take special pictures that inspire people to come to the Ebertplatz and do the same. But we wanted to show the beauty of the existing place without adding something new to it. So we searched for perspectives, patterns and surfaces that are unique for the Ebertplatz. From that, we developed products like bags and t-shirts that worked as wearable additions to the place. With the help of this products, we were able to connect different areas of the Ebertplatz by bringing structures and patterns from one end to another.
+But in terms of the Passagen, we had to create something interactive which the people actually could take a photo of. 
+So we worked on two installations. One on the side where the trams and the characteristic blue and red tiles are. And the other on the other side of the passages where the orange tiles are. Both installations worked with in/visibility. 
+For the first one, we hung up a picture of the situation in the middle of the room. It merged with the background if you looked at it from a specific perspective and made everything disappear behind it.
+For the second installation, we worked with invisible spray which reflects light. We sprayed parts of the joint pattern of the orange tiled wall onto this. If you take a photo of this wall with flash on you could see this place in a new light.
+After all, we created an Instagram account where we showed lots of our photos and also a path across the Ebertplatz to some places including our installations to inspire people to take photos on there own.
+"
+
+imgMin: 
+
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/010.jpg"
+
+
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/010.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/011.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/012.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/013.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/014.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/015.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/016.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/017.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/018.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/019.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/020.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/021.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/022.JPG"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/023.JPG"
+
+---

@@ -1,0 +1,33 @@
+---
+layout: post
+author: "Name missing"
+date:   2019-02-05 12:00:00 +0100
+title:  "Ramp it up!"
+text: "This project deals with the concept of creating a safe and playful environment.
+The Ebertplatz does not have the safest reputation and many people try to avoid walking through the passage. Therefore, our concept involved creating skater ramps that would blend in and enhance this area. The ramps are positioned on unused pillars in a main thoroughfare. The intention is to have six ramps around one pillar, two ramps serve as proof of concept, but more funding is required. 
+
+The objective of these ramps is to hinder people from hiding behind the pillars by forcing them to stand in full sight of passers-by, thus improving safety. Additionally, the ramps attract new groups of people to spend more time at the Ebertplatz. By redefining who and how the space is used and including elements of fun and safety not only can skating, running and parkour add interest to Ebertplatz, but these can take place irrespective of weather or time of day. 
+"
+
+imgMin: 
+
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/miniaturen/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/miniaturen/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/miniaturen/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/miniaturen/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/miniaturen/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/miniaturen/006.jpg"
+
+
+
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/originale/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/originale/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/originale/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/originale/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-15/originale/006.jpg"
+
+
+---
