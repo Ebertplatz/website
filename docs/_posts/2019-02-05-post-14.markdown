@@ -18,7 +18,6 @@ At some point we were asking ourselves what exactly is orientation and if there 
 
 imgMin: 
 
-  - "https://vimeo.com/314251401"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/002.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/miniaturen/003.jpg"
@@ -34,7 +33,6 @@ imgMin:
 imgOrig: 
 
 
-  - "[installtion video](https://vimeo.com/314251401)"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/002.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/003.jpg"
