@@ -2,11 +2,11 @@
 layout: post
 author: "Charlotte"
 date:   2019-02-05 12:00:00 +0100
-title:  "Den Ebertplatz erfassen (Capturing the Ebertplatz)"»
+title:  "Den Ebertplatz erfassen (Capturing the Ebertplatz)"
 text: "The *Bad Image* of the Ebertplatz is particularly associated with the architecture of the square: the brutalism of the 70s with its many nooks and dark corners. But how is the square perceived, if one ignores these supposed disturbing factors i.e. how is the Ebertplatz perceived without a visual sense?
 
 The tactile works are a representation of Ebertplatz from a blind perspective:
-Blind people perceive their surroundings mainly with their hearing and sense of touch. The most important tool for the recording is the so-called *white cane*. The different techniques of using the stick (»Schleiftechnik«, „Tipptechnik“, etc.) are essential.
+Blind people perceive their surroundings mainly with their hearing and sense of touch. The most important tool for the recording is the so-called *white cane*. The different techniques of using the stick (*Schleiftechnik*, „Tipptechnik“, etc.) are essential.
 Factors, which can be disturbing for sighted people, such as furniture, entrances or noise are potential orientation points for non-sighted people that structure the square. These structures have been captured in the form of tactile maps by taking up the pendulum movement of the blind cane. 
 
 Orientation is also provided by the sound resonance of the cane and gives an idea of the covered areas including the ceiling height or of the furniture on the square.
