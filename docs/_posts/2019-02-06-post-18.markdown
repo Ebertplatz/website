@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Johanna, Jonas, David"
-date:   2019-02-05 12:00:00 +0100
+date:   2019-02-07 12:00:00 +0100
 title:  "Unsichtbare Stadt"
 text: "Zu den PASSAGEN 2019 öffnet die Forschungsstelle *Echtzeitstadt* der TH Köln ihr temporäres Studio am Ebertplatz in Köln. Vom 14. bis 20. Januar 2019 werden dort Arbeiten gezeigt, welche die verdeckten Potenziale dieses umstrittenen Ortes freizulegen und zu entwickeln suchen.
 

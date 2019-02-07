@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Tamara Bertran"
-date:   2019-01-09 18:16:02 +0100
+date:   2019-02-04 18:16:02 +0100
 title:  "Projekt Ebertplatz"
 text: ""
 imgMin: 
@@ -14,6 +14,7 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/007.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/010.jpg"
 
 imgOrig: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/001.jpg"
@@ -25,4 +26,6 @@ imgOrig:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/007.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/010.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/011.jpg"
 ---
