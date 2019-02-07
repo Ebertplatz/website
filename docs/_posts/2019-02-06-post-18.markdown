@@ -1,8 +1,8 @@
 ---
 layout: post
-author: "Johanna, Jonas, David"
+author: ""
 date:   2019-02-07 12:00:00 +0100
-title:  "Unsichtbare Stadt"
+title:  "Invisible City"
 text: "On the occasion of the PASSAGEN 2019, the research cluster “Real-Time City“ of TH Köln will be opening its temporary studio at Cologne Ebertplatz. From January 14 to January 20, works and exhibits will be shown which try to unveil and harness the hidden potentials of this much disputed location. 
 The centerpiece of the exhibition of “The Invisible City“ will be the idea on how design can open up new and alternate ways of participating in society and the urban space. The projects‘ topics deal with the various connotations and perceptions of Cologne Ebertplatz and critically analyze the different atmospheres, the hidden infrastructures, and the space-time structures of this urban place. At the same time, they tackle the question on what heated debates about public squares and locations tell us about society. The presented works emerged from direct meetings with local actors on-site at Ebertplatz and are characterized by an experimental quality. Visitors are asked to confront themselves with the public usage of Ebertplatz, its possibilities and potentials and, in doing so, to actively contribute to the public design of social spaces. 
 The exhibition will take place in the context of the Cologne-based design festival PASSAGEN. PASSAGEN 2019 will also be presenting design interacting with architecture in an urban context. Social and societal challenges for design will also be highlighted. 
