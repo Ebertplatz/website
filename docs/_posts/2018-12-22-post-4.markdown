@@ -19,7 +19,6 @@ imgMin:
 imgOrig: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/002.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/003.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/004.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/005.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/originale/006.jpg"
