@@ -2,8 +2,9 @@
 layout: post
 author: "Tamara Bertran"
 date:   2019-02-04 18:16:02 +0100
-title:  "Projekt Ebertplatz"
-text: ""
+title:  "Not a non-place"
+text: "Just as a place is characterized by identity, relation, and history, a space that has no identity, that is neither relational nor historic, can be defined as a non-place.“ (Marc Augé, 1992). Looking at Augé‘s definition one might assume that Ebertplatz is a non-place. It seems all the more important to give this space an identity in order to turn the „non-place“ into a ’place‘. One form of identity is the visualization of the invisible. What would happen if the existing monumental architecture suddenly became transparent and lucent? What if it were to literally shine through, exposing everything previously hidden and private?  A flight at eye level would then give you the eerie impression of being able to look through concrete walls and find all the hidden things behind. The static structures would be transformed into dynamic structures of spatial and social relationships. If we now scan all our urban „non-places“,connecting them visually, would we then feel safer in these places as well? Or would our insecurity grow as a result of total visualization?
+"
 imgMin: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/22-12-2018-post-4/miniaturen/002.jpg"
