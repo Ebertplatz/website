@@ -1,0 +1,56 @@
+---
+layout: post
+author: "Johanna, Jonas, David"
+date:   2019-02-05 12:00:00 +0100
+title:  "Unsichtbare Stadt"
+text: "Zu den PASSAGEN 2019 öffnet die Forschungsstelle *Echtzeitstadt* der TH Köln ihr temporäres Studio am Ebertplatz in Köln. Vom 14. bis 20. Januar 2019 werden dort Arbeiten gezeigt, welche die verdeckten Potenziale dieses umstrittenen Ortes freizulegen und zu entwickeln suchen.
+
+Die Vorstellung, durch Gestaltung alternative Möglichkeiten der Teilhabe an Stadt und Gesellschaft zu eröffnen, steht im Mittelpunkt der Ausstellung *Die unsichtbare Stadt*. Die präsentierten Projekte befassen sich mit den unterschiedlichen Aneignungen und Imaginationen des Ebertplatzes in Köln. Kritisch untersuchen sie die atmosphärischen Qualitäten, die nicht sichtbaren Infrastrukturen und raumzeitlichen Ordnungen dieses urbanen Ortes. Zugleich gehen sie der Frage nach, was hitzig geführte Debatten um öffentliche Plätze über die Gesellschaft erzählen. Die Arbeiten entstanden in direkter Begegnung mit den lokalen Akteurinnen und Akteuren am Platz und sind von einem experimentellen Charakter geprägt. Die Besucherinnen und Besucher werden aufgefordert, sich mit dem Gebrauch und den Möglichkeiten des Platzes auseinanderzusetzen und an der Gestaltung des sozialen Raumes mitzuwirken.
+Die Ausstellung findet im Rahmen des Designfestivals PASSAGEN in Köln statt. Die PASSAGEN 2019 präsentieren das Thema Design auch im Zusammenspiel mit Architektur im urbanen Kontext und greifen gesellschaftliche Ansprüche an das Design auf.
+Wir danken Maria Wildeis und der Stadt Köln für die Nutzung der Räumlichkeiten und dem Büro Sabine Voggenreiter für die Organisation der PASSAGEN.  
+
+
+Fotografien © Matthias Karch
+"
+
+imgMin: 
+
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/023.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/miniaturen/009.jpg"
+
+
+
+imgOrig: 
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/001.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/002.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/003.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/004.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/005.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/006.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/007.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/008.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/010.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/011.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/012.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/013.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-18/originale/014.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/015.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/016.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/017.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/018.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/019.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/020.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/021.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/022.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-18/originale/023.jpg"
+
+---
