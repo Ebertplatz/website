@@ -10,7 +10,6 @@ We actually split the topic Ebertplatz in three pieces due to an inspiration we 
 imgMin: 
 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/001.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/002.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/003.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/004.jpg"
@@ -19,6 +18,7 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/007.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/008.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/009.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/miniaturen/010.jpg"
 
 
 
