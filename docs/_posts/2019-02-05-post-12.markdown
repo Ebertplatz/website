@@ -2,7 +2,7 @@
 layout: post
 author: "Charlotte"
 date:   2019-02-05 12:00:00 +0100
-title:  "Den Ebertplatz erfassen (Capturing the Ebertplatz)"
+title:  "Capturing the Ebertplatz"
 text: "The Bad Image of the Ebertplatz is particularly associated with the architecture of the square: the brutalism of the 70s with its many nooks and dark corners. But how is the square perceived, if one ignores these supposed disturbing factors i.e. how is the Ebertplatz perceived without a visual sense?
 
 The tactile works are a representation of Ebertplatz from a blind perspective:

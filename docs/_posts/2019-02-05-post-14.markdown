@@ -46,7 +46,6 @@ imgOrig:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/011.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/012.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/013.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-14/originale/014.jpg"
 
 
 

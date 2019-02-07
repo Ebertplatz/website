@@ -31,7 +31,6 @@ imgOrig:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/006.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/007.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/008.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/009.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/010.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/011.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/06-02-2019-post-17/originale/012.jpg"

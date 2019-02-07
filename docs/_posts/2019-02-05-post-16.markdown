@@ -25,7 +25,6 @@ imgMin:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/miniaturen/009.jpg"
 
 
-
 imgOrig: 
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/001.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/002.jpg"
@@ -41,14 +40,14 @@ imgOrig:
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/012.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/013.jpg"
   - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-02-2019-post-16/originale/014.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/015.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/016.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/017.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/018.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/019.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/020.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/021.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/022.jpg"
-  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2018-post-16/originale/023.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/015.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/016.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/017.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/018.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/019.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/020.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/021.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/022.jpg"
+  - "https://raw.githubusercontent.com/Ebertplatz/images/master/05-12-2019-post-16/originale/023.jpg"
 
 ---
